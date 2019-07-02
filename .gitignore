@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.npy
+*.npy
+*.ipynb_checkpoints
+*.pytest_cache
+*.pyc
+*__pycache__
+*HAM10000_images_part_1*
+*HAM10000_images_part_2*
