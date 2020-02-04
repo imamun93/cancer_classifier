@@ -5,4 +5,4 @@ Source from [Kaggle Skin Cancer MNIST](https://www.kaggle.com/kmader/skin-cancer
 All data can be found there instead. Due to git size limitation, none of the actual data were stored here.
 
 
-Project might be cancelled because I am having difficulty converting the images into numpy array.
+A CNN model with 77% accuracy and 0.045 mse has been established.
